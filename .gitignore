@@ -1,0 +1,17 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/.idea
+/.idea/copyright/
+/*.iml
+/target
+/*/target
+/*/*.iml
+/*/src/test/
+/*/overlays
+/out
+*.iml
